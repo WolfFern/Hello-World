@@ -1,2 +1,3 @@
 # >> modify something at local
-edit local modify to make some confilict
+
+make some change at branch brch1
